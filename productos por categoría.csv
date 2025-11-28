@@ -1,0 +1,73 @@
+id_producto;nombre_producto;descripcion;peso;stock;categoria
+1;"Smartphone Samsung Galaxy";"Teléfono inteligente última generación";0.20;472;Electrónicos
+2;"Laptop Dell Inspiron";"Computadora portátil 15 pulgadas";2.10;226;Electrónicos
+3;"Jeans Levis 501";"Pantalón vaquero clásico";0.80;921;"Ropa y Calzado"
+4;"Zapatillas Nike Air";"Calzado deportivo para running";0.35;722;"Ropa y Calzado"
+5;"Arroz Diana";"Arroz blanco grano largo 1kg";1.00;1954;Alimentos
+6;"Mesa de comedor";"Mesa de madera para 6 personas";25.50;144;Muebles
+7;"Silla ergonómica";"Silla de oficina con soporte lumbar";8.20;291;Muebles
+8;"Libro Programación SQL";"Guía completa de SQL para principiantes";0.50;344;Libros
+9;"Tablet iPad Pro";"Tablet Apple 11 pulgadas";0.45;187;Electrónicos
+10;"Camiseta Adidas";"Camiseta deportiva algodón";0.20;749;"Ropa y Calzado"
+11;"Notebook HP Pavilion";"Laptop 14 pulgadas 8GB RAM";1.80;265;Electrónicos
+12;"Pantalón Dockers";"Pantalón formal para hombre";0.40;561;"Ropa y Calzado"
+13;"Zapatos Oxford";"Zapatos formales de cuero";0.60;367;"Ropa y Calzado"
+14;"Fideos Lucchetti";"Fideos secos 500g";0.50;1480;Alimentos
+15;"Sofá de 3 plazas";"Sofá tela color gris";35.00;70;Muebles
+16;"Escritorio ejecutivo";"Escritorio de madera con cajones";18.00;157;Muebles
+17;"Libro JavaScript";"Guía de JavaScript avanzado";0.70;302;Libros
+18;"Smartwatch Apple";"Reloj inteligente Series 7";0.05;232;Electrónicos
+19;"Camisa Polo";"Camisa polo pima algodón";0.25;865;"Ropa y Calzado"
+20;"Botines de fútbol";"Botines Adidas Predator";0.40;320;"Ropa y Calzado"
+21;"Aceite de oliva";"Aceite extra virgen 500ml";0.50;781;Alimentos
+22;"Cama matrimonial";"Cama king size con colchón";45.00;35;Muebles
+23;"Silla gamer";"Silla gaming RGB";15.00;174;Muebles
+24;"Libro Python";"Programación en Python";0.60;437;Libros
+25;"Auriculares Sony";"Auriculares inalámbricos";0.30;314;Electrónicos
+26;"Vestido de verano";"Vestido floreado manga corta";0.40;491;"Ropa y Calzado"
+27;"Zapatillas Converse";"Zapatillas clásicas blancas";0.50;654;"Ropa y Calzado"
+28;"Café Juan Valdez";"Café en grano 500g";0.50;974;Alimentos
+29;"Closet de 3 puertas";"Closet melamina blanco";28.00;97;Muebles
+30;"Mesa de centro";"Mesa de centro vidrio templado";12.00;103;Muebles
+31;"Libro React";"Guía de React para desarrolladores";0.80;282;Libros
+32;"Teclado mecánico";"Teclado gaming RGB";1.20;354;Electrónicos
+33;"Short deportivo";"Short Nike Dry-FIT";0.30;785;"Ropa y Calzado"
+34;"Botas de lluvia";"Botas impermeables Hunter";0.80;283;"Ropa y Calzado"
+35;"Vino tinto Malbec";"Vino tinto 750ml";1.50;1168;Alimentos
+36;"Lámpara de pie";"Lámpara LED moderna";3.50;169;Muebles
+37;"Repisa flotante";"Repisa de madera para pared";2.50;305;Muebles
+38;"Libro Node.js";"Desarrollo backend con Node.js";0.90;253;Libros
+39;"Mouse inalámbrico";"Mouse Logitech inalámbrico";0.15;461;Electrónicos
+40;"Blusa femenina";"Blusa manga larga seda";0.35;567;"Ropa y Calzado"
+41;"Sandalias de playa";"Sandalias Havaianas";0.20;940;"Ropa y Calzado"
+42;"Galletas Oreo";"Paquete de galletas 300g";0.30;1755;Alimentos
+43;"Espejo de pared";"Espejo rectangular 80x60cm";5.00;95;Muebles
+44;"Banqueta de cocina";"Banqueta de madera con almacenaje";8.00;250;Muebles
+45;"Libro Machine Learning";"Introducción al Machine Learning";1.20;187;Libros
+46;"Monitor 24 pulgadas";"Monitor LG IPS 24"";3.50;295;Electrónicos
+47;"Falda escolar";"Falda kilt escolar";0.40;678;"Ropa y Calzado"
+48;"Zapatillas de casa";"Zapatillas antideslizantes";0.25;1085;"Ropa y Calzado"
+49;"Té verde";"Té verde en hojas 100g";0.10;1479;Alimentos
+50;"Maceta de cerámica";"Maceta medina 30cm";2.00;343;Muebles
+51;"Almohada ortopédica";"Almohada memory foam";1.50;500;Muebles
+52;"Libro Docker";"Guía de Docker para principiantes";0.70;380;Libros
+53;"Webcam HD";"Webcam Logitech C920";0.40;280;Electrónicos
+54;"Pantalón cargo";"Pantalón cargo militar";0.60;550;"Ropa y Calzado"
+55;"Chaqueta impermeable";"Chaqueta North Face";0.80;250;"Ropa y Calzado"
+56;"Miel pura";"Miel de abeja 500g";0.60;900;Alimentos
+57;"Cuadro decorativo";"Cuadro abstracto 60x80cm";1.20;180;Muebles
+58;"Perchero de pie";"Perchero metálico con ruedas";4.50;330;Muebles
+59;"Libro CSS";"Diseño web con CSS3";0.65;420;Libros
+60;"Altavoces Bluetooth";"Altavoces JBL Charge 4";0.90;350;Electrónicos
+61;"Camisa de vestir";"Camisa formal algodón";0.30;700;"Ropa y Calzado"
+62;"Botines de seguridad";"Botines industriales";1.20;200;"Ropa y Calzado"
+63;"Té verde matcha";"Té matcha en polvo 100g";0.10;850;Alimentos
+64;"Reloj de pared";"Reloj analógico silencioso";0.80;250;Muebles
+65;"Organizador de cocina";"Organizador de bambú";1.50;450;Muebles
+66;"Libro PHP";"Programación en PHP 8";0.75;350;Libros
+67;"Disco duro externo";"Disco SSD 1TB";0.10;450;Electrónicos
+68;"Vestido de noche";"Vestido satén largo";0.50;400;"Ropa y Calzado"
+69;Chanclas;"Chanclas de goma";0.15;1200;"Ropa y Calzado"
+70;"Aceite de coco";"Aceite de coco virgen 500ml";0.50;850;Alimentos
+71;"Juego de sillas";"Juego de 4 sillas apilables";8.00;200;Muebles
+72;"Estantería modular";"Estantería de metal 5 niveles";12.00;150;Muebles
